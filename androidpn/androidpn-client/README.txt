@@ -1,6 +1,6 @@
-ANDROIDPN-SERVER README
+ANDROIDPN-CLIENT README
 =======================
-https://github.com/wangyanna13/cometTech
+http://androidpn.sourceforge.net/
 
 Push Notification Service for Android
 
